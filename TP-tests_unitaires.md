@@ -1,5 +1,8 @@
 # TP - tests unitaires
 
+**Correction en ligne :**
+https://github.com/ThomasLaforge/tests-ts
+
 ## Comment travailler sur le TP
 
 Cloner : https://github.com/ThomasLaforge/tests-ts
@@ -30,7 +33,7 @@ Ajouter des tests unitaires sur la fonction `additionner` du fichier `__tests__/
 
 ## Exercice 2
 
-Gérer la multiplication et les puissance dans un fichier `__tests__/pow.test.ts`, `modules/pow.ts` et `__tests__/multiplication.test.ts`, `modules/multiplication.ts`.
+Gérer la multiplication et les puissances dans un fichier `__tests__/pow.test.ts`, `modules/pow.ts` et `__tests__/multiplication.test.ts`, `modules/multiplication.ts`.
 
 ## Exercice 3
 

@@ -1,7 +1,13 @@
 import { sum } from './addition.ts'
 
 export function multiplication(a: number, b: number){
-
-  return sum(a, b);  
-
+  let res = a * b;
+  if(res === -0){
+    return 0
+  }  
+  else {
+    return res
+  }
 };
+
+// multiplication(2, 2);

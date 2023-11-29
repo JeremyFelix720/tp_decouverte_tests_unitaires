@@ -12,4 +12,4 @@ export function sum(numA: number, numB: number){
     return numA + numB;
 };
 
-sum(2, 2);
+// sum(2, 2);
